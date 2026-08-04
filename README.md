@@ -59,43 +59,14 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Abhishek-Singh&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Abhishek-Singh&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=The-Abhishek-Singh&theme=github-dark)
-
----
-
-## 📚 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Java
-- Data Structures & Algorithms
-- System Design
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Solve 500+ LeetCode problems
-- ✅ Build 10+ Full Stack Projects
-- ✅ Master React.js & Node.js
-- ✅ Improve DSA skills
-- ✅ Contribute to Open Source
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: your-email@example.com
-- 🌍 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: www.linkedin.com/in/mohankumar-m-8b5161371 
+- 📧 Email: mohankumarmurugesan406@gmail.com
+- 🌍 Portfolio: https://portfolio-website-one-xi-24.vercel.app/
 
 ---
 
